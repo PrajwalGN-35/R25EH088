@@ -1,0 +1,7 @@
+**Deloitte Australia — Technology Job Simulation** | Forage | 2026
+
+* Developed a Python-based data transformation solution to unify telemetry data received in different JSON formats into a standardized structure.
+* Implemented timestamp conversion and data normalization logic to support consistent downstream processing.
+* Validated the solution using automated tests and followed structured software-development practices.
+* Prepared a formal development proposal for a secure, intranet-based machine-health dashboard covering **4 factories and 9 monitored machines per factory**, including scope, implementation considerations, timeline, and post-deployment support.
+* Gained practical exposure to **Python, JSON data processing, data engineering, software development, technical documentation, and client-focused solution design**.
